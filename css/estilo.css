@@ -35,8 +35,10 @@ body{
 
 #img-perfil{
     border-radius: 50%;
-    height: 80px;
-    width: 80px;
+    min-height: auto;
+    max-height: 80px;
+    min-width: auto;
+    max-width: 80px;
     margin: 20px auto 20px auto;
     display: block;
 }
@@ -112,8 +114,10 @@ progress::-moz-progress-bar {
 
 #contato img{
     display: inline-block;
-    width: 100px;
-    height: 100px;
+    min-width: auto;
+    max-width: 100px;
+    min-height: auto;
+    max-height: 100px;
     margin: 25px;
 }
 
