@@ -35,9 +35,7 @@ body{
 
 #img-perfil{
     border-radius: 50%;
-    min-height: auto;
     max-height: 80px;
-    min-width: auto;
     max-width: 80px;
     margin: 20px auto 20px auto;
     display: block;
