@@ -35,8 +35,8 @@ body{
 
 #img-perfil{
     border-radius: 50%;
-    height: 80px;
     width: 80px;
+    height: 80px;
     margin: 20px auto 20px auto;
     display: block;
 }
