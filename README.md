@@ -1,2 +1,2 @@
-# Sobre-mim
-Apenas um pequeno resuminho sobre mim.
+# Sobre mim
+# Apenas um pequeno resuminho sobre mim.
