@@ -28,12 +28,13 @@ body{
 
 .section{
     padding: 15px;
-    margin: 25px auto;
+    margin: 60px auto;
     border-radius: 10px;
     width: 70%;
     text-align: center;
     background-image: url(../img/2928722.jpg);
     background-attachment: fixed;
+    top: 0;
 }
 
 #img-perfil{
